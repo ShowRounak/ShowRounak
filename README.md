@@ -28,8 +28,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=showrounak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="showrounak" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=showrounak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="showrounak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=showrounak&show_icons=true&locale=en&theme=tokyonight" alt="showrounak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=showrounak&show_icons=true&locale=en&theme=tokyonight" alt="showrounak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=showrounak&&theme=tokyonight" alt="showrounak" /></p>
