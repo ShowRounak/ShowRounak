@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rounak.1210@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jCqWexUhbSY8ve5_tkTLFH6I5Wssr3VX/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12jGxYlOsalO5mlCM-h0IeJImcIStB3w2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
