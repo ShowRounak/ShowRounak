@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/showrounak" target="blank"><img src="https://img.shields.io/twitter/follow/showrounak?logo=twitter&style=for-the-badge" alt="showrounak" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📝 I regularly write articles on [https://rounakshow.hashnode.dev/](https://rounakshow.hashnode.dev/)
 
